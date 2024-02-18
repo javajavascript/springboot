@@ -5,7 +5,7 @@
 <!-- the namespace defines the location of the Java interface -->
 <!-- the operation names here must match the method namesin the interface -->
 
-<mapper namespace="com.example.dao.AppMapper">
+<mapper namespace="com.example.app.PostMapper">
 	
 	<!-- the column property must match the column name in the database -->
 	<!-- the property property must match the property name in the java code -->
